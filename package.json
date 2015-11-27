@@ -1,0 +1,19 @@
+{
+  "name": "victory-gantt",
+  "version": "0.0.1",
+  "description": "gantt chart component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-gantt.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-gantt/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-gantt",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
